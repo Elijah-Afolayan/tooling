@@ -71,6 +71,6 @@ Default web root:
 /usr/share/nginx/html
 ```
 
-## If you require permissions to GCP, or Gitlab resources, please talk to dare@propitix.com
+## If you require permissions to GCP, or Gitlab resources, please talk to dare@propitix.com  
 
-File has been updated... by Elijah   test ok
+I am updating this file to verify is the Post-build Action(send build artifacts over SSH) is upd and running if i can see this update in the Readme file on the NSF-server.
